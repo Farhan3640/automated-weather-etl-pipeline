@@ -151,7 +151,7 @@ automated-etl-pipeline/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/automated-etl-pipeline.git
+git clone https://github.com/Farhan3640/automated-etl-pipeline.git
 cd automated-etl-pipeline
 ```
 
